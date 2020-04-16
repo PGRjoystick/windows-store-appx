@@ -2,4 +2,4 @@
 for people who accidentally delete microsoft store during debloat windows 10
 
 # Install
-Add-AppPackage "appxfile"
+use powershell as admin and type Add-AppPackage "appxfile"
